@@ -10,7 +10,7 @@ WebAPI using C# to create a project where you can store, organize and search you
 | :fire: Desafio     | https://url-do-desafio.com.br
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![]([https://dsortstorage.blob.core.windows.net/files/projectImageCover.png#vitrinedev)
 
 ## Detalhes do projeto
 
