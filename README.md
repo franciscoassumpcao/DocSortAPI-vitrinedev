@@ -1,12 +1,12 @@
-# Nome do meu projeto
+# DocSort API
 
-Rápida descrição do objetivo de fazer esse projeto
+WebAPI using C# to create a project where you can store, organize and search your documents physically and digitally.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
+| :sparkles: Nome        | **DocSort API**
+| :label: Tecnologias | c#, js, html (tecnologias utilizadas)
+| :rocket: URL         | https://franciscoassumpcao.github.io/DsortPageAPI/
 | :fire: Desafio     | https://url-do-desafio.com.br
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
@@ -14,4 +14,4 @@ Rápida descrição do objetivo de fazer esse projeto
 
 ## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+Created a webAPI and a JS webpage to store documents online, with a physical address to your physical documents.
